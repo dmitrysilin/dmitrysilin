@@ -1,5 +1,5 @@
 # Hi! Привет! 👋
-I'm Dmitry. Right now, I'm just learning.
+Nice to meet you, my name is Dmitry Silin. Right now, I'm just learning.
 
 
 <p align='left'>
