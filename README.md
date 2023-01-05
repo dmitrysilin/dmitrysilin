@@ -14,9 +14,6 @@ Nice to meet you, my name is Dmitry Silin. Right now, I'm just learning.
    <a href="https://t.me/silinlicious">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='left'>
-   📫 How to reach me: <a href='mailto:silinlicious@gmail.com'>silinlicious@gmail.com</a>
-</p>
   
   <br>
   
