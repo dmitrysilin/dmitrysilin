@@ -1,4 +1,5 @@
-# Hi, I'm Dmitry 👋
+# Hi! Привет! 👋
+I'm Dmitry. Right now, I'm just learning.
 
 
 <p align='left'>
