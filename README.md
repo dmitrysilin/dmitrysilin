@@ -11,14 +11,14 @@ Nice to meet you, my name is Dmitry Silin. Right now, I'm just learning.
    <a href="https://www.linkedin.com/in/silinlicious/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/silinlicious">
+   <a href="https://t.me/iloveQA">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
   
   <br>
   
 <div align="left" style="margin: 40px 0">
-   <a href="https://github.com/silinliclous/github-profile-views-counter">
-       <img width="120px" src="https://komarev.com/ghpvc/?username=silinliclous&color=DE002D">
+   <a href="https://github.com/iloveQA/github-profile-views-counter">
+       <img width="120px" src="https://komarev.com/ghpvc/?username=iloveQA&color=DE002D">
    </a>
 </div>
