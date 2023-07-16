@@ -1,6 +1,5 @@
 # Hi! Привет! 👋
-Nice to meet you, my name is Dmitry Silin. Right now, I'm just learning.
-
+Nice to meet you, my name is Dmitry Silin
 
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=silinliclous&show_icons=true&count_private=true">
