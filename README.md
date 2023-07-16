@@ -8,17 +8,22 @@ Nice to meet you, my name is Dmitry Silin. Right now, I'm just learning.
 </p>
 
 <p align='left'>
-   <a href="https://www.linkedin.com/in/silinlicious/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
    <a href="https://t.me/iloveQA">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-  
-  <br>
-  
-<div align="left" style="margin: 40px 0">
-   <a href="https://github.com/iloveQA/github-profile-views-counter">
-       <img width="120px" src="https://komarev.com/ghpvc/?username=iloveQA&color=DE002D">
+
+<br>
+
+<p align='left'>
+       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
    </a>
+       <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"/>
+   </a>
+       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+   </a>
+       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+   </a>
+       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   </a>
+   
 </div>
