@@ -2,7 +2,7 @@
 Nice to meet you, my name is Dmitry Silin
 
 <p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=silinliclous&show_icons=true&count_private=true">
+   <a href="https://github-readme-stats.vercel.app/api?username=iloveQA&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=silinliclous&show_icons=true&count_private=true"/></a>
 </p>
 
