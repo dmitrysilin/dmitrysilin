@@ -23,10 +23,10 @@ Nice to meet you, my name is Dmitry Silin
 <br>
 
 <p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=iloveQA&show_icons=true&count_private=true">
-       <img height=130 src="https://github-readme-stats.vercel.app/api?username=iloveQA&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/iloveQA/github-readme-stats">
-       <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iloveQA&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=dmitrysilin&show_icons=true&count_private=true">
+       <img height=130 src="https://github-readme-stats.vercel.app/api?username=dmitrysilin&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/dmitrysilin/github-readme-stats">
+       <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrysilin&layout=compact"/></a>
 </p>
 
    
