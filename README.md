@@ -2,7 +2,7 @@
 Nice to meet you, my name is Dmitry Silin
 
 <p align='left'>
-   <a href="https://t.me/iloveQA">
+   <a href="https://t.me/silinlicious">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
@@ -19,15 +19,5 @@ Nice to meet you, my name is Dmitry Silin
    </a>
        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
    </a>
-
-<br>
-
-<p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dmitrysilin&show_icons=true&count_private=true">
-       <img height=130 src="https://github-readme-stats.vercel.app/api?username=dmitrysilin&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/dmitrysilin/github-readme-stats">
-       <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrysilin&layout=compact"/></a>
-</p>
-
    
 </div>
