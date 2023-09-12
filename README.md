@@ -2,7 +2,7 @@
 Nice to meet you, my name is Dmitry Silin
 
 <p align='left'>
-   <a href="https://t.me/silinlicious">
+   <a href="https://t.me/iloveQA">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
