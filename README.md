@@ -1,10 +1,10 @@
-# Привет! 👋
+# Привет! Hi! 👋
 
-##### Меня зовут Дима, я QA-engineer из Ижевска.
+#### My name is Dmitry, I'm QA-engineer from Izhevsk, Russia.
 
 ***
 
-##### 🤝 Connect with me:
+#### 🤝 Connect with me:
 
 <p align='left'>
    <a href="https://t.me/iloveQA">
