@@ -1,6 +1,6 @@
 # Привет! Hi! 👋
 
-#### My name is Dmitry, I'm QA-engineer from Izhevsk, Russia.
+#### I'm Dmitry Silin and I'm QA-engineer from Izhevsk, Russia.
 
 ***
 
