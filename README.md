@@ -1,10 +1,10 @@
 # Привет! Hi! 👋
 
-#### I'm Dmitry Silin, QA-engineer from Izhevsk, Russia.
+I'm Dmitry Silin, QA-engineer from Izhevsk, Russia.
 
 ***
 
-#### 🤝 Connect with me:
+🤝 Connect with me:
 
 <p align='left'>
    <a href="https://t.me/iloveQA">
