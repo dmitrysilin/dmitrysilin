@@ -4,7 +4,7 @@
 
 ***
 
-###### 🤝 Connect with me:
+##### 🤝 Connect with me:
 
 <p align='left'>
    <a href="https://t.me/iloveQA">
@@ -13,4 +13,4 @@
    
 ***
 
-[![My Skills](https://skillicons.dev/icons?i=postman,vscode,figma,githubactions,grafana,kafka,sentry,androidstudio,docker,git,github,kubernetes&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,figma,githubactions,grafana,kafka,sentry,androidstudio,docker,git,github,kubernetes&perline=6)](https://skillicons.dev)
