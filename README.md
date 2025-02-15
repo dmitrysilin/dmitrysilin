@@ -17,3 +17,5 @@ I'm Dmitry Silin, QA-engineer from Izhevsk, Russia.
 ***
 
 [![My Skills](https://skillicons.dev/icons?i=postman,vscode,figma,githubactions,grafana,kafka,sentry,androidstudio,docker,git,github,kubernetes&perline=6)](https://skillicons.dev)
+---
+[![](https://visitcount.itsvg.in/api?id=dmitrysilin&icon=4&color=0)](https://visitcount.itsvg.in)
